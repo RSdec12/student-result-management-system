@@ -32,31 +32,31 @@ A web-based **Student Result Management System** developed using **HTML, CSS, an
 
 ### 👨‍🎓 Student Management
 
-![Student Management](screenshots/student registration.png)
+![Student Management](screenshots/studentregistration.png)
 
 ---
 
 ### 📝 Generate Result
 
-![Generate Result](screenshots/result generation.png)
+![Generate Result](screenshots/resultgeneration.png)
 
 ---
 
 ### 📄 View Results
 
-![View Results](screenshots/view results.png)
+![View Results](screenshots/viewresults.png)
 
 ---
 
 ### ℹ️ About Page
 
-![About Page](screenshots/about page.png)
+![About Page](screenshots/aboutpage.png)
 
 ---
 
 ### 📞 Contact Page
 
-![Contact Page](screenshots/contact page.png)
+![Contact Page](screenshots/contactpage.png)
 
 ---
 
